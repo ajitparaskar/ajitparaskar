@@ -1,4 +1,4 @@
-# 💫 Ajit Paraskar
+                                                                       # 💫 Ajit Paraskar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Technical+Lead+%40+DevKaft+%E2%9A%A1;Full+Stack+Developer+%F0%9F%8C%90;Patent+Holder+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%92%A1;Event+Organizer+%26+Mentor+%F0%9F%8E%A4;Always+Learning+New+Things+%F0%9F%93%9A" />
