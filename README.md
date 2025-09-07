@@ -1,15 +1,13 @@
-# 💫 Ajit Paraskar
-
+💫 Ajit Paraskar
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Technical+Lead+%40+DevKaft+⚡;Full+Stack+Developer+🌐;Patent+Holder+🏆;Open+Source+Contributor+💡;Event+Organizer+%26+Mentor+🎤;Always+Learning+New+Things+📚&font=Fira%20Code&center=true&width=600&height=50&color=00d9ff&vCenter=true&pause=1000&size=22" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&height=50&lines=Technical+Lead+%40+DevKaft+%E2%9A%A1;Full+Stack+Developer+%F0%9F%8C%90;Patent+Holder+%F0%9F%8F%86;Open+Source+Contributor+%F0%9F%92%A1;Event+Organizer+%26+Mentor+%F0%9F%8E%A4;Always+Learning+New+Things+%F0%9F%93%9A" />
 </div>
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajitparaskar&color=blueviolet&style=flat-square&label=Profile+Views" />
-  <img src="https://img.shields.io/github/followers/ajitparaskar?style=flat-square&color=blue" />
-  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen" />
+  <img src="https://komarev.com/ghpvc/?username=ajitparaskar&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/ajitparaskar?style=flat-square&color=blue&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-brightgreen?style=flat-square" alt="Focus" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Collaborate-success?style=flat-square" alt="Status" />
 </p>
-
 ---
 
 ## 🚀 About Me
